@@ -1,0 +1,19 @@
+< !DOCTYPE html> 
+<html>
+<head>
+       <title> Book Details <\title>
+<\head>
+<body>  
+      <img src="book 1 jpg">
+       
+      <P>Author: Paulou Freire <\p>
+      <P>Published Year: 1968 <\p>
+      <P>Discription:First Published in Portuguese in 1968, Padagogy of the Oppresed was translated and published in Englis
+<body> 
+<\html>
+
+
+
+
+
+
